@@ -1,7 +1,7 @@
-Skyline Elevators
+# Skyline Elevators
 Skyline Elevators is a smart building solution designed to modernize vertical transportation. This application provides a high-performance, real-time control interface for elevator systems, prioritizing data transparency and operational safety.
 
-# The Problem - solved here:
+# The Problem - solved here
 In large-scale buildings, elevator usage is often a "black box" for management. This project enables real-time tracking and auditing of elevator usage by logging precise request timestamps and floor data to the cloud for operational analysis.
 
 ## Key Features
@@ -65,3 +65,14 @@ JSON
 }
 }
 }
+
+## 📱 Interface & Live Demo 
+
+<table width="100%"> 
+<tr> <th width="50%">📸 System UI</th> <th width="50%">🎬 Live Functionality</th> </tr>
+ <tr> <td align="center"> 
+<img src="https://github.com/user-attachments/assets/ca8bbfba-e892-452f-9aff-23847a9f5e8f" width="100%" alt="App Screenshot"> </td> <td align="center"> 
+<video src="https://github.com/user-attachments/assets/595d3ad3-5c32-4bb8-97b5-b53292e34d98" width="100%" controls> Your browser does not support the video tag. </video> </td> </tr> </table>
+
+**Note:** The demo above showcases real-time floor selection and the "Hold Door" safety logic integrated with Firebase cloud logging.
+
