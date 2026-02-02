@@ -46,7 +46,9 @@ Deploy: Select your physical device from the toolbar and click the Green Play Bu
 3. Sideloading the APK
    If you just want to run the app without the source code:
 
-Download the app-debug.apk from the [Releases] section.
+visit https://i.diawi.com/xJ5DQ9
+
+Download the app-debug.apk from the [Download/Releases] section.
 
 Transfer the file to your Samsung phone.
 
@@ -72,7 +74,8 @@ JSON
 <tr> <th width="50%">📸 System UI</th> <th width="50%">🎬 Live Functionality</th> </tr>
  <tr> <td align="center"> 
 <img src="https://github.com/user-attachments/assets/ca8bbfba-e892-452f-9aff-23847a9f5e8f" width="100%" alt="App Screenshot"> </td> <td align="center"> 
-<video src="https://github.com/user-attachments/assets/595d3ad3-5c32-4bb8-97b5-b53292e34d98" width="100%" controls> Your browser does not support the video tag. </video> </td> </tr> </table>
+<video src="https://github.com/user-attachments/assets/595d3ad3-5c32-4bb8-97b5-b53292e34d98" width="100%" controls>
+</video> </td> </tr> </table>
 
 **Note:** The demo above showcases real-time floor selection and the "Hold Door" safety logic integrated with Firebase cloud logging.
 
